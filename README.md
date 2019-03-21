@@ -19,7 +19,7 @@ Create something new that I never been done, it was fun and hard. But probably I
 
 What could be improved? 
 
-It could improve if it's rebuild the code and add some framework as react, angular, cordova or others to run in any diferent mobile, add more functionality as level, timer to complete the game and a better visual and usability.
+It could improve if it's rebuild the code and add some framework as react, angular, cordova or others to run in any diferent mobile, add more functionality as level, count user's moviment, add a timer and also a better visual and usability.
 
 As I have never been done it and I was quickly busy the last days, counting the time I start development and stop, start and stop...I think I spend around 9 - 11 hours. 
 
